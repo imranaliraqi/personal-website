@@ -184,7 +184,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
     margin-left: 10%;
     display: grid;
     gap: 30px;
-    grid-template-columns:1fr 1fr ;
+    grid-template-columns:1fr 1fr;
 
 
 }
@@ -241,6 +241,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
 
 }
 
+/* contact */
 
 
 /* Footer*/
