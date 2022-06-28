@@ -245,17 +245,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
 
 
 /* Footer*/
-.grid-footer {
-    margin-left: 500px;
-    padding-left: 200px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 50px;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
 
-}
 .footer {
     position: absolute;
     left: 10%;
@@ -265,6 +255,17 @@ input[type="checkbox"]:checked~.sideBar ul li {
     -webkit-backdrop-filter: blur(30px);
     -moz-backdrop-filter: blur(30px);
     -ms-backdrop-filter: blur(30px);
+}
+.grid {
+    margin-left: 500px;
+    padding-left: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
 }
 
 .footer .social a {

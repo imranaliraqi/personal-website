@@ -9,13 +9,7 @@
 
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+    
 
     /* slide */
 
@@ -34,6 +28,14 @@
         position: absolute;
 
         left: 40%;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+
+
     }
 
     .footer .social a {
@@ -102,13 +104,7 @@
         margin-left: 50px;
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+   
 
     /* slide */
 
@@ -131,6 +127,14 @@
 
     .footer .social a {
         margin: 0 10px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+
+
     }
 
     .social .h1 {
@@ -196,13 +200,7 @@
         margin-left: 20px;
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+   
 
     /* slide */
 
@@ -221,6 +219,13 @@
         position: absolute;
 
         left: 35%;
+    }
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+
+
     }
 
     .footer .social a {
@@ -287,13 +292,7 @@
         margin-left: 20px;
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+    
 
     /* slide */
 
@@ -312,6 +311,13 @@
         position: absolute;
 
         left: 30%;
+    }
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+
+
     }
 
     .footer .social a {
@@ -380,13 +386,7 @@
         margin-left: 20px;
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+    
 
     /* slide */
 
@@ -405,6 +405,13 @@
         position: absolute;
 
         left: 15%;
+    }
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+
+
     }
 
     .footer .social a {
@@ -473,13 +480,7 @@
         margin-left: 20px;
     }
 
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-
-
-    }
+    
 
     /* slide */
 
@@ -499,7 +500,13 @@
 
         left: 15%;
     }
+.grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
 
+
+    }
     .footer .social a {
         margin: 0 10px;
     }
