@@ -3,57 +3,17 @@
     .sideBar {
         position: absolute;
         height: 100%;
-        width: 100px;
+        width: 200px;
         z-index: 50;
-        
-        
-    }
-
-    .toggle {
-        position: absolute;
-        height: 30px;
-        width: 30px;
-        left: 20px;
-        top: 20px;
-        z-index: 100;
 
 
-    }
-
-    .toggle .common {
-        position: absolute;
-        height: 2px;
-        width: 20px;
-        left: 50%;
-
-    }
-
-
-    input[type="checkbox"]:checked~.toggle .topLine {
-        left: 3px;
-        top: 13px;
-        width: 23px;
-    }
-
-    input[type="checkbox"]:checked~.toggle .bottomLine {
-        left: 3px;
-        top: 13px;
-        width: 23px;
-    }
-
-    
-    ul li a {
-
-        font-size: 13px;
-        padding-top: 100px;
-        padding-left: 25px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -64,17 +24,18 @@
         width: 675px;
         height: 570px;
         top: 10%;
-        left:35%;
-    
+        left: 35%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 40%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -98,7 +59,7 @@
         height: 100%;
         width: 300px;
         z-index: 50;
-        
+
     }
 
     .toggle {
@@ -133,19 +94,19 @@
         width: 40px;
     }
 
-    
+
     ul li a {
-        
+
         font-size: 20px;
-        padding-top: 120px;
-        padding-left: 25px;
+        margin-top: 200px;
+        margin-left: 50px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -156,17 +117,18 @@
         width: 575px;
         height: 570px;
         top: 10%;
-        left:35%;
-    
+        left: 35%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 40%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -188,9 +150,9 @@
     .sideBar {
         position: absolute;
         height: 100%;
-        width: 100px;
+        width: 150px;
         z-index: 50;
-        
+
     }
 
     .toggle {
@@ -225,20 +187,20 @@
         width: 23px;
     }
 
-    
+
     ul li a {
 
-        font-size: 13px;
-      
-        padding-top: 100px;
-        padding-left: 25px;
+        font-size: 20px;
+
+        margin-top: 200px;
+        margin-left: 20px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -249,17 +211,18 @@
         width: 575px;
         height: 570px;
         top: 25%;
-        left:20%;
-    
+        left: 20%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 35%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -279,9 +242,9 @@
     .sideBar {
         position: absolute;
         height: 100%;
-        width: 100px;
+        width: 150px;
         z-index: 50;
-        
+
     }
 
     .toggle {
@@ -316,20 +279,19 @@
         width: 23px;
     }
 
-    
+
     ul li a {
 
-        font-size: 13px;
-      
-        padding-top: 100px;
-        padding-left: 25px;
+        font-size: 20px;
+        margin-top: 200px;
+        margin-left: 20px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -340,17 +302,18 @@
         width: 475px;
         height: 570px;
         top: 25%;
-        left:20%;
-    
+        left: 20%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 30%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -364,104 +327,6 @@
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-@media all and (max-width:540px) {
-
-    .sideBar {
-        position: absolute;
-        height: 100%;
-        width: 100px;
-        z-index: 50;
-        
-    }
-
-    .toggle {
-        position: absolute;
-        height: 30px;
-        width: 30px;
-        left: 20px;
-        top: 20px;
-        z-index: 100;
-
-
-    }
-
-    .toggle .common {
-        position: absolute;
-        height: 2px;
-        width: 20px;
-        left: 50%;
-
-    }
-
-
-    input[type="checkbox"]:checked~.toggle .topLine {
-        left: 3px;
-        top: 13px;
-        width: 23px;
-    }
-
-    input[type="checkbox"]:checked~.toggle .bottomLine {
-        left: 3px;
-        top: 13px;
-        width: 23px;
-    }
-
-    
-    ul li a {
-
-        font-size: 13px;
-      
-        padding-top: 100px;
-        padding-left: 25px;
-    }
-
-    .grid {
-        margin-left: 12px;
-        padding-left: 12px;
-        gap: 0px;
-        
-
-    }
-
-    /* slide */
-
-    .slide-container {
-        position: absolute;
-        width: 375px;
-        height: 470px;
-        top: 10%;
-        left:15%;
-    
-
-    }
-
-    /* Footer*/
-    .footer .social a {
-        margin: 0 10px;
-    }
-
-    .social .h1 {
-        font-size: 15px;
-    }
-
-    .grid p {
-        font-size: 10px;
-    }
-
-}
-
-
 
 
 @media all and (max-width:450px) {
@@ -469,10 +334,10 @@
     .sideBar {
         position: absolute;
         height: 100%;
-        width: 100px;
+        width: 150px;
         z-index: 50;
-        
-        
+
+
     }
 
     .toggle {
@@ -507,20 +372,19 @@
         width: 23px;
     }
 
-    
+
     ul li a {
 
-        font-size: 13px;
-      
-        padding-top: 100px;
-        padding-left: 25px;
+        font-size: 20px;
+        margin-top: 150px;
+        margin-left: 20px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -531,17 +395,18 @@
         width: 350px;
         height: 470px;
         top: 20%;
-        left:5%;
-    
+        left: 5%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 15%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -562,9 +427,9 @@
     .sideBar {
         position: absolute;
         height: 100%;
-        width: 100px;
+        width: 150px;
         z-index: 50;
-        
+
     }
 
     .toggle {
@@ -599,20 +464,20 @@
         width: 23px;
     }
 
-    
+
     ul li a {
 
         font-size: 13px;
-      
-        padding-top: 100px;
-        padding-left: 25px;
+
+        margin-top: 120px;
+        margin-left: 20px;
     }
 
     .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
-        
+
 
     }
 
@@ -623,17 +488,18 @@
         width: 300px;
         height: 470px;
         top: 20%;
-        left:10%;
-    
+        left: 10%;
+
 
     }
 
     /* Footer*/
-    .footer{
+    .footer {
         position: absolute;
 
         left: 15%;
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -647,3 +513,5 @@
     }
 
 }
+
+
