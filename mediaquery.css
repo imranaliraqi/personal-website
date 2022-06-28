@@ -1,0 +1,649 @@
+@media all and (max-width:2000px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 675px;
+        height: 570px;
+        top: 10%;
+        left:35%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 40%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 40px;
+    }
+
+    .grid p {
+        font-size: 15px;
+    }
+
+}
+
+
+
+@media all and (max-width:1920px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 300px;
+        z-index: 50;
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 60px;
+        width: 60px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 40px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 10px;
+        top: 30px;
+        width: 40px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 10px;
+        top: 30px;
+        width: 40px;
+    }
+
+    
+    ul li a {
+        
+        font-size: 20px;
+        padding-top: 120px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 575px;
+        height: 570px;
+        top: 10%;
+        left:35%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 40%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 40px;
+    }
+
+    .grid p {
+        font-size: 15px;
+    }
+
+}
+
+
+
+@media all and (max-width:912px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+      
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 575px;
+        height: 570px;
+        top: 25%;
+        left:20%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 35%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 25px;
+    }
+
+    .grid p {
+        font-size: 10px;
+    }
+
+}
+
+@media all and (max-width:820px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+      
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 475px;
+        height: 570px;
+        top: 25%;
+        left:20%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 30%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 15px;
+    }
+
+    .grid p {
+        font-size: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width:540px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+      
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 375px;
+        height: 470px;
+        top: 10%;
+        left:15%;
+    
+
+    }
+
+    /* Footer*/
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 15px;
+    }
+
+    .grid p {
+        font-size: 10px;
+    }
+
+}
+
+
+
+
+@media all and (max-width:450px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+      
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 350px;
+        height: 470px;
+        top: 20%;
+        left:5%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 15%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 15px;
+    }
+
+    .grid p {
+        font-size: 10px;
+    }
+
+}
+
+
+@media all and (max-width:375px) {
+
+    .sideBar {
+        position: absolute;
+        height: 100%;
+        width: 100px;
+        z-index: 50;
+        
+    }
+
+    .toggle {
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        left: 20px;
+        top: 20px;
+        z-index: 100;
+
+
+    }
+
+    .toggle .common {
+        position: absolute;
+        height: 2px;
+        width: 20px;
+        left: 50%;
+
+    }
+
+
+    input[type="checkbox"]:checked~.toggle .topLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    input[type="checkbox"]:checked~.toggle .bottomLine {
+        left: 3px;
+        top: 13px;
+        width: 23px;
+    }
+
+    
+    ul li a {
+
+        font-size: 13px;
+      
+        padding-top: 100px;
+        padding-left: 25px;
+    }
+
+    .grid {
+        margin-left: 12px;
+        padding-left: 12px;
+        gap: 0px;
+        
+
+    }
+
+    /* slide */
+
+    .slide-container {
+        position: absolute;
+        width: 300px;
+        height: 470px;
+        top: 20%;
+        left:10%;
+    
+
+    }
+
+    /* Footer*/
+    .footer{
+        position: absolute;
+
+        left: 15%;
+    }
+    .footer .social a {
+        margin: 0 10px;
+    }
+
+    .social .h1 {
+        font-size: 15px;
+    }
+
+    .grid p {
+        font-size: 10px;
+    }
+
+}
