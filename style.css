@@ -14,7 +14,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    filter: brightness(80%);
+    filter: brightness(90%);
 
 
 }
@@ -171,7 +171,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
 
 
 .swiper .swiper-pagination-bullet-active {
-    background: w;
+    background: #fff;
 }
 
 
@@ -194,6 +194,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
     position: relative;
     margin-left: 10%;
     margin-top: 45%;
+    text-decoration: none;
     color: #fff;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 
     0 -1px black;
@@ -207,6 +208,7 @@ input[type="checkbox"]:checked~.sideBar ul li {
     box-sizing: border-box;
     width: 100%;
     height: auto;
+    text-decoration: none;
     border-bottom: 3px solid #fff;
     border-radius: 10px;
     backdrop-filter: blur(30px);
@@ -240,8 +242,12 @@ input[type="checkbox"]:checked~.sideBar ul li {
     cursor: pointer;
 
 }
+.af-btn:hover{
 
-/* contact */
+   color: #fff;
+
+}
+
 
 
 /* Footer*/

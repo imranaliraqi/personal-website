@@ -9,7 +9,7 @@
 
     }
 
-    
+
 
     /* slide */
 
@@ -104,7 +104,7 @@
         margin-left: 50px;
     }
 
-   
+
 
     /* slide */
 
@@ -115,6 +115,60 @@
         top: 10%;
         left: 35%;
 
+
+    }
+
+    /* about me*/
+
+    .grid1 {
+        position: relative;
+        margin-left: 10%;
+        margin-top: 45%;
+        color: #fff;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black,
+            0 -1px black;
+        text-align: center;
+
+    }
+
+
+
+    .text-continer {
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        border-bottom: 3px solid #fff;
+        border-radius: 10px;
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+        -moz-backdrop-filter: blur(30px);
+        -ms-backdrop-filter: blur(30px);
+    }
+
+    .grid2 {
+
+        box-sizing: border-box;
+        position: absolute;
+        top: 10%;
+        left: 60%;
+        max-width: 600px;
+        border-radius: 30px;
+
+    }
+
+    .grid2 img {
+
+        box-sizing: border-box;
+        max-width: 100%;
+        border-radius: 30px;
+        filter: brightness(70%);
+
+    }
+
+    .af-btn {
+        text-decoration: none;
+        color: yellowgreen;
+        cursor: pointer;
 
     }
 
@@ -200,7 +254,7 @@
         margin-left: 20px;
     }
 
-   
+
 
     /* slide */
 
@@ -214,12 +268,68 @@
 
     }
 
+    /* about me*/
+
+    .grid1 {
+        position:absolute;
+        right: 5%;
+        width: 90%;
+        color: #fff;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black,
+            0 -1px black;
+        text-align: center;
+
+    }
+
+
+
+    .text-continer {
+        box-sizing: border-box;
+        font-size: 1.5rem;
+        width: 100%;
+        height: auto;
+        border-bottom: 3px solid #fff;
+        border-radius: 10px;
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+        -moz-backdrop-filter: blur(30px);
+        -ms-backdrop-filter: blur(30px);
+    }
+
+    .grid2 {
+
+        box-sizing: border-box;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        max-width: 450px;
+        border-radius: 30px;
+
+    }
+
+    .grid2 img {
+
+        box-sizing: border-box;
+        max-width: 100%;
+        border-radius: 30px;
+        filter: brightness(70%);
+
+    }
+
+    .af-btn {
+        text-decoration: none;
+        color: yellowgreen;
+        cursor: pointer;
+
+    }
+
     /* Footer*/
     .footer {
         position: absolute;
 
         left: 35%;
     }
+
     .grid {
         margin-left: 12px;
         padding-left: 12px;
@@ -292,7 +402,7 @@
         margin-left: 20px;
     }
 
-    
+
 
     /* slide */
 
@@ -306,12 +416,68 @@
 
     }
 
+    /* about me*/
+
+    .grid1 {
+        position: absolute;
+        right: 5%;
+        width: 90%;
+        color: #fff;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black,
+            0 -1px black;
+        text-align: center;
+
+    }
+
+
+
+    .text-continer {
+        box-sizing: border-box;
+        font-size: 1rem;
+        width: 100%;
+        height: auto;
+        border-bottom: 3px solid #fff;
+        border-radius: 10px;
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+        -moz-backdrop-filter: blur(30px);
+        -ms-backdrop-filter: blur(30px);
+    }
+
+    .grid2 {
+
+        box-sizing: border-box;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        max-width: 350px;
+        border-radius: 30px;
+
+    }
+
+    .grid2 img {
+
+        box-sizing: border-box;
+        max-width: 100%;
+        border-radius: 30px;
+
+
+    }
+
+    .af-btn {
+        text-decoration: none;
+        color: yellowgreen;
+        cursor: pointer;
+
+    }
+
     /* Footer*/
     .footer {
         position: absolute;
 
         left: 30%;
     }
+
     .grid {
         margin-left: 12px;
         padding-left: 12px;
@@ -382,11 +548,11 @@
     ul li a {
 
         font-size: 20px;
-        margin-top: 150px;
+        margin-top: 100px;
         margin-left: 20px;
     }
 
-    
+
 
     /* slide */
 
@@ -400,12 +566,71 @@
 
     }
 
+    /* about me*/
+
+    .grid1 {
+        position: absolute;
+        bottom: 65%;
+        right: 5%;
+        width:90%;
+        color: #fff;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black,
+            0 -1px black;
+        text-align: center;
+
+    }
+
+
+
+    .text-continer {
+        box-sizing: border-box;
+        font-size: 0.7rem;
+        text-decoration: none;
+        width: 100%;
+        height: auto;
+        border-bottom: 3px solid #fff;
+        border-radius: 10px;
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+        -moz-backdrop-filter: blur(30px);
+        -ms-backdrop-filter: blur(30px);
+    }
+
+    .grid2 {
+
+        box-sizing: border-box;
+        position: absolute;
+        top: 50%;
+        left: 20%;
+        max-width: 200px;
+        border-radius: 30px;
+
+    }
+
+    .grid2 img {
+
+        box-sizing: border-box;
+        max-width: 100%;
+        border-radius: 30px;
+
+
+    }
+
+    .af-btn {
+        text-decoration: none;
+        color: yellowgreen;
+        cursor: pointer;
+
+    }
+
+
     /* Footer*/
     .footer {
         position: absolute;
 
         left: 15%;
     }
+
     .grid {
         margin-left: 12px;
         padding-left: 12px;
@@ -480,7 +705,7 @@
         margin-left: 20px;
     }
 
-    
+
 
     /* slide */
 
@@ -494,19 +719,78 @@
 
     }
 
+     /* about me*/
+
+     .grid1 {
+        position: absolute;
+        top: 0%;
+        right: 5%;
+        width: 90%;
+        color: #fff;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black,
+            0 -1px black;
+        text-align: center;
+
+    }
+
+
+
+    .text-continer {
+        box-sizing: border-box;
+        font-size: 0.7rem;
+        width: 100%;
+        height: auto;
+        border-bottom: 3px solid #fff;
+        border-radius: 10px;
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+        -moz-backdrop-filter: blur(30px);
+        -ms-backdrop-filter: blur(30px);
+    }
+
+    .grid2 {
+
+        box-sizing: border-box;
+        position: absolute;
+        top: 50%;
+        left: 20%;
+        max-width: 200px;
+        border-radius: 30px;
+
+    }
+
+    .grid2 img {
+
+        box-sizing: border-box;
+        max-width: 100%;
+        border-radius: 30px;
+
+
+    }
+
+    .af-btn {
+        text-decoration: none;
+        color: yellowgreen;
+        cursor: pointer;
+
+    }
+
+
     /* Footer*/
     .footer {
         position: absolute;
 
         left: 15%;
     }
-.grid {
+
+    .grid {
         margin-left: 12px;
         padding-left: 12px;
         gap: 0px;
 
 
     }
+
     .footer .social a {
         margin: 0 10px;
     }
@@ -520,5 +804,3 @@
     }
 
 }
-
-
